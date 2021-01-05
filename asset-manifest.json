@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.347e5c9f.chunk.css",
+    "main.js": "/static/js/main.cd8e1d44.chunk.js",
+    "main.js.map": "/static/js/main.cd8e1d44.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d386bcb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d386bcb.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7f1d5fb2.chunk.js": "/static/js/2.7f1d5fb2.chunk.js",
+    "static/js/2.7f1d5fb2.chunk.js.map": "/static/js/2.7f1d5fb2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2cab61a0fcebea82bb8af1760d06b824.js": "/precache-manifest.2cab61a0fcebea82bb8af1760d06b824.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.347e5c9f.chunk.css.map": "/static/css/main.347e5c9f.chunk.css.map",
+    "static/js/2.7f1d5fb2.chunk.js.LICENSE.txt": "/static/js/2.7f1d5fb2.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/Kalam-Regular.bea35746.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d386bcb.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7f1d5fb2.chunk.js",
+    "static/css/main.347e5c9f.chunk.css",
+    "static/js/main.cd8e1d44.chunk.js"
+  ]
+}
